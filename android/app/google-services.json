@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077797664459",
+    "project_id": "ijawnation-c5157",
+    "storage_bucket": "ijawnation-c5157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077797664459:android:2106cd4b5355a0c1008d4e",
+        "android_client_info": {
+          "package_name": "com.o3interactive.ijawnation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077797664459-p7oo0jv4n42chpfk2rk6d48srvki5nsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfR9SGdY6yCikDzsuvrXa1bLeL3-BeMRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077797664459-p7oo0jv4n42chpfk2rk6d48srvki5nsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
