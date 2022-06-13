@@ -70,9 +70,9 @@ class _HomePageState extends State<HomePage> {
         context.read<UserBloc>().getUserData();
       }
     });
+
   }
 
-  
 
   @override
   void dispose() {
